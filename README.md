@@ -26,7 +26,7 @@ How to Run
 
 1. Clone or download the project.
 2. Compile the Java code using a terminal or an IDE like IntelliJ IDEA, Eclipse, or NetBeans.
-3. Run the `GPA_calculator` class to launch the application.
+3. Run the GPA_calculator class to launch the application.
 
 
 
